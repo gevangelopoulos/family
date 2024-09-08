@@ -18,6 +18,8 @@
 }
 .f3 svg.main_svg text {
     fill: currentColor;
+    font-family: sans-serif;
+    font-size: x-small;
 }
 .f3 rect.card-female, .f3 .card-female .card-body-rect, .f3 .card-female .text-overflow-mask {
     fill: lightpink;
