@@ -1,9 +1,9 @@
 .f3 {
-    height: 700px;
-    max-height: calc(100vh - 80px);
-    width: 900px;
+    height: 800px;
+    /*max-height: calc(100vh - 80px);*/
+    width: 100%;
     max-width: 100%;
-    margin: auto;
+    margin:auto;
     position: relative;
 }
 
